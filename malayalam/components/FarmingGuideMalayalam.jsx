@@ -3,7 +3,7 @@ import "../components/farmingGuide.css";
 import { useNavigate } from "react-router-dom";
 import FarmingGuideMalayalam from "../pages/FarmingGuideMalayalam";
 
-const FarmingGuide = () => {
+const FarmingGuideMalayalam = () => {
   const navigate = useNavigate(); // Initialize useNavigate
 
   const guideSteps = [
