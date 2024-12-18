@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'; // നാവിഗേഷനുള്ള
 import '../components/BenifitsOfCoconut.css';
 import BenefitsOfCoconutMalayalam from '../pages/BenefitsOfCoconutMalayalam';
 
-const BenefitsOfCoconut = () => {
+const BenefitsOfCoconutMalayalam = () => {
   const benefits = [
     {
       icon: <FaLeaf />,
