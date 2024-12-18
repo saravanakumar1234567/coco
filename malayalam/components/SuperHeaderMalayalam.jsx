@@ -1,7 +1,7 @@
 import React from "react";
 import video from '../assets/header_video.mp4';
 
-const SuperHeader = () => {
+const SuperHeaderMalayalam = () => {
   return (
     <section className="relative w-screen h-screen overflow-hidden">
       {/* വീഡിയോ ബാക്ക്‌ഗ്രൗണ്ട് */}
@@ -56,4 +56,4 @@ const SuperHeader = () => {
   );
 };
 
-export default SuperHeader;
+export default SuperHeaderMalayalam;
