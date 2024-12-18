@@ -5,7 +5,7 @@ import { useInView } from "react-intersection-observer"; // Lazy Hydration
 import aboutUsImage from '../assets/Aboutus.jpg';
 import AboutUsMalayalam from "../pages/AboutUsMalayalam";
 
-const AboutUs = () => {
+const AboutUsMalayalam = () => {
   const [text, setText] = useState("");
   const fullText = `തെന്നായ്, നാളത്തെ തലമുറകൾക്ക് കൃഷി കൂടുതൽ ലാഭകരവും 
 നിലനിൽക്കാവുന്നതുമാക്കുന്നതിനായി തേങ്ങ കർഷകരെ അറിവ്, ഉപകരണങ്ങൾ, 
